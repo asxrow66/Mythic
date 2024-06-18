@@ -22587,36 +22587,36 @@
         }
       }
     },
-    "Minimise to menu bar on game launch" : {
+    "Minimize to menu bar on game launch" : {
       "localizations" : {
         "af" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "ar" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "de" : {
@@ -22628,19 +22628,19 @@
         "el" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "fr" : {
@@ -22652,7 +22652,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "hu" : {
@@ -22664,25 +22664,25 @@
         "id" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "mt" : {
@@ -22700,7 +22700,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "pl" : {
@@ -22712,19 +22712,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "ru" : {
@@ -22736,31 +22736,31 @@
         "sr" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         },
         "zh-Hans" : {
@@ -22772,7 +22772,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Minimise to menu bar on game launch"
+            "value" : "Minimize to menu bar on game launch"
           }
         }
       }
